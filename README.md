@@ -2,6 +2,7 @@
 - [kiro](https://kiro.dev/)
 
 #### 开源
+- [gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy)
 - [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli)
 - [costrict](https://costrict.ai/)
 - [MonkeyCode](https://github.com/chaitin/MonkeyCode)
