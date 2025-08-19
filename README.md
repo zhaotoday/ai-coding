@@ -1,3 +1,6 @@
+#### 产品
+- [kiro](https://kiro.dev/)
+
 #### 开源
 - [costrict](https://costrict.ai/)
 - [MonkeyCode](https://github.com/chaitin/MonkeyCode)
