@@ -2,6 +2,7 @@
 - [kiro](https://kiro.dev/)
 
 #### 开源
+- [Gemini-CLI-UI](https://github.com/cruzyjapan/Gemini-CLI-UI)
 - [gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool)
 - [gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy)
 - [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli)
