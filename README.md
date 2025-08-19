@@ -2,6 +2,7 @@
 - [kiro](https://kiro.dev/)
 
 #### 开源
+- [claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows)
 - [Gemini-CLI-UI](https://github.com/cruzyjapan/Gemini-CLI-UI)
 - [gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool)
 - [gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy)
