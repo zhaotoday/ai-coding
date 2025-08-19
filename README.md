@@ -16,5 +16,6 @@
 #### 工具
 - [cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
 
-#### 产品
+#### 文章
 - [AI 代码审核](https://juejin.cn/post/7504567245265846272)
+- [AI - Gemini CLI 摆脱终端限制](https://juejin.cn/post/7531685572214996992)
