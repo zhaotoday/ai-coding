@@ -2,6 +2,7 @@
 - [kiro](https://kiro.dev/)
 
 #### 开源
+- [ai-pre-commit-reviewer](https://github.com/ispuppy/ai-pre-commit-reviewer)
 - [claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows)
 - [Gemini-CLI-UI](https://github.com/cruzyjapan/Gemini-CLI-UI)
 - [gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool)
