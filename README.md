@@ -2,6 +2,7 @@
 - [kiro](https://kiro.dev/)
 
 #### 开源
+- [penpot](https://github.com/penpot/penpot)
 - [gemini-cli-openai](https://github.com/GewoonJaap/gemini-cli-openai)
 - [ai-pre-commit-reviewer](https://github.com/ispuppy/ai-pre-commit-reviewer)
 - [claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows)
