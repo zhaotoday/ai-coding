@@ -4,6 +4,7 @@
 - [kiro](https://kiro.dev/)
 
 #### 开源
+- [DeepCode](https://github.com/HKUDS/DeepCode)
 - [penpot](https://github.com/penpot/penpot)
 - [gemini-cli-openai](https://github.com/GewoonJaap/gemini-cli-openai)
 - [ai-pre-commit-reviewer](https://github.com/ispuppy/ai-pre-commit-reviewer)
