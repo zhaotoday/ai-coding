@@ -4,6 +4,7 @@
 - [kiro](https://kiro.dev/)
 
 #### 开源
+- [auto-dev](https://github.com/unit-mesh/auto-dev)
 - [AICR](https://github.com/rideWind97/AICR)
 - [DeepCode](https://github.com/HKUDS/DeepCode)
 - [penpot](https://github.com/penpot/penpot)
