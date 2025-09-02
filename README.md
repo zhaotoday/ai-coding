@@ -4,6 +4,7 @@
 - [kiro](https://kiro.dev/)
 
 #### 开源
+- [continue](https://github.com/continuedev/continue)
 - [claude-code-templates](https://github.com/davila7/claude-code-templates)
 - [auto-dev](https://github.com/unit-mesh/auto-dev)
 - [AICR](https://github.com/rideWind97/AICR)
