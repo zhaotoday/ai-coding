@@ -4,6 +4,7 @@
 - [kiro](https://kiro.dev/)
 
 #### 开源
+- [sourcery](https://github.com/sourcery-ai/sourcery)
 - [code-interpreter](https://github.com/e2b-dev/code-interpreter)
 - [continue](https://github.com/continuedev/continue)
 - [claude-code-templates](https://github.com/davila7/claude-code-templates)
