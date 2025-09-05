@@ -4,6 +4,7 @@
 - [kiro](https://kiro.dev/)
 
 #### 开源
+- [AI-Coding-Style-Guides](https://github.com/lidangzzz/AI-Coding-Style-Guides)
 - [sourcery](https://github.com/sourcery-ai/sourcery)
 - [code-interpreter](https://github.com/e2b-dev/code-interpreter)
 - [continue](https://github.com/continuedev/continue)
