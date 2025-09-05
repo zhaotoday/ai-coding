@@ -4,6 +4,7 @@
 - [kiro](https://kiro.dev/)
 
 #### 开源
+- [daytona](https://github.com/daytonaio/daytona)
 - [AI-Coding-Style-Guides](https://github.com/lidangzzz/AI-Coding-Style-Guides)
 - [sourcery](https://github.com/sourcery-ai/sourcery)
 - [code-interpreter](https://github.com/e2b-dev/code-interpreter)
