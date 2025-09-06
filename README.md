@@ -4,6 +4,7 @@
 - [kiro](https://kiro.dev/)
 
 #### 开源
+- [awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding)
 - [daytona](https://github.com/daytonaio/daytona)
 - [AI-Coding-Style-Guides](https://github.com/lidangzzz/AI-Coding-Style-Guides)
 - [sourcery](https://github.com/sourcery-ai/sourcery)
