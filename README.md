@@ -4,6 +4,7 @@
 - [kiro](https://kiro.dev/)
 
 #### 开源
+- [kilocode](https://github.com/Kilo-Org/kilocode)
 - [awesome-code-ai](https://github.com/sourcegraph/awesome-code-ai)
 - [an-codeAI](https://github.com/sparrow-js/an-codeAI)
 - [awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding)
