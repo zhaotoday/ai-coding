@@ -4,6 +4,7 @@
 - [kiro](https://kiro.dev/)
 
 #### 开源
+- [awesome-ai-coding](https://github.com/wsxiaoys/awesome-ai-coding)
 - [awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools)
 - [kilocode](https://github.com/Kilo-Org/kilocode)
 - [awesome-code-ai](https://github.com/sourcegraph/awesome-code-ai)
