@@ -4,6 +4,7 @@
 - [kiro](https://kiro.dev/)
 
 #### 开源
+- [claude-init](https://github.com/cfrs2005/claude-init)
 - [claude-code-router](https://github.com/musistudio/claude-code-router)
 - [awesome-ai-coding](https://github.com/wsxiaoys/awesome-ai-coding)
 - [awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools)
