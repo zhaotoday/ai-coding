@@ -3,6 +3,7 @@
 - [penpot](https://penpot.app/)
 - [kiro](https://kiro.dev/)
 - [trae](https://www.trae.ai/)
+- [windsurf](https://windsurf.com/)
 
 #### 文档
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
