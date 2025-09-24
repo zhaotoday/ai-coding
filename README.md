@@ -10,6 +10,7 @@
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
 
 #### 开源
+- [neovate-code](https://github.com/neovateai/neovate-code)
 - [claude-init](https://github.com/cfrs2005/claude-init)
 - [claude-code-router](https://github.com/musistudio/claude-code-router)
 - [awesome-ai-coding](https://github.com/wsxiaoys/awesome-ai-coding)
