@@ -1,4 +1,5 @@
 #### 产品
+- [humanlayer](https://www.humanlayer.dev/)
 - [CodeBuddy](https://copilot.tencent.com/ide/)
 - [penpot](https://penpot.app/)
 - [kiro](https://kiro.dev/)
