@@ -1,4 +1,5 @@
 #### 产品
+- [comate](https://comate.baidu.com/zh)
 - [humanlayer](https://www.humanlayer.dev/)
 - [CodeBuddy](https://copilot.tencent.com/ide/)
 - [penpot](https://penpot.app/)
