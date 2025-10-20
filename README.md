@@ -12,6 +12,7 @@
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
 
 #### 开源
+- [eca](https://github.com/editor-code-assistant/eca)
 - [vibe-tools](https://github.com/eastlondoner/vibe-tools)
 - [AI-Codereview-Gitlab](https://github.com/sunmh207/AI-Codereview-Gitlab)
 - [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview)
