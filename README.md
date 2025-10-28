@@ -16,6 +16,7 @@
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
 
 #### 开源
+- [aicodeguide](https://github.com/automata/aicodeguide)
 - [how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent)
 - [antd-components-mcp](https://github.com/zhixiaoqiang/antd-components-mcp)
 - [eca](https://github.com/editor-code-assistant/eca)
