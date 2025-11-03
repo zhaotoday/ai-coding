@@ -63,6 +63,7 @@
 - [cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
 
 #### 文章
+- [🚀 程序员必看让AI编程100%可控！从1到N的开发神器OpenSpec规范驱动开发完整实战指南！支持Cursor、Claude Code、Codex！](https://juejin.cn/post/7562005346262646835)
 - [🎨 市面上主流 Figma to Code MCP 对比](https://juejin.cn/post/7540470626210938906)
 - [AI 代码审核](https://juejin.cn/post/7504567245265846272)
 - [AI - Gemini CLI 摆脱终端限制](https://juejin.cn/post/7531685572214996992)
