@@ -16,6 +16,7 @@
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
 
 #### 开源
+- [OpenSpec](https://github.com/Fission-AI/OpenSpec)
 - [opencode](https://github.com/sst/opencode)
 - [tabby](https://github.com/TabbyML/tabby)
 - [coding-agent-template](https://github.com/vercel-labs/coding-agent-template)
