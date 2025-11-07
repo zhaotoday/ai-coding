@@ -17,6 +17,7 @@
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
 
 #### 开源
+- [context-engineering-intro](https://github.com/coleam00/context-engineering-intro)
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec)
 - [opencode](https://github.com/sst/opencode)
 - [tabby](https://github.com/TabbyML/tabby)
