@@ -66,6 +66,7 @@
 - [cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
 
 #### 文章
+- [AI Coding技巧与心得](https://juejin.cn/post/7551997631113199626)
 - [完整的AI编程全自动指南](https://juejin.cn/post/7567196232107196459)
 - [🚀 程序员必看让AI编程100%可控！从1到N的开发神器OpenSpec规范驱动开发完整实战指南！支持Cursor、Claude Code、Codex！](https://juejin.cn/post/7562005346262646835)
 - [🎨 市面上主流 Figma to Code MCP 对比](https://juejin.cn/post/7540470626210938906)
