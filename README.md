@@ -17,6 +17,7 @@
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
 
 #### 开源
+- [opencode](https://github.com/opencode-ai/opencode)
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban)
 - [vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template)
 - [autobe](https://github.com/wrtnlabs/autobe)
