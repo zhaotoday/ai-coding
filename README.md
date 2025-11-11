@@ -17,6 +17,7 @@
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
 
 #### 开源
+- [vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template)
 - [autobe](https://github.com/wrtnlabs/autobe)
 - [vibekit](https://github.com/superagent-ai/vibekit)
 - [vibe-coding-template](https://github.com/humanstack/vibe-coding-template)
