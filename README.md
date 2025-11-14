@@ -76,6 +76,7 @@
 - [cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
 
 #### 文章
+- [“最新国产代码大杀器”——MiniMax-M2！](https://juejin.cn/post/7568192652287868982)
 - [AGENTS.md](https://juejin.cn/post/7569532841870540826)
 - [AI Coding技巧与心得](https://juejin.cn/post/7551997631113199626)
 - [完整的AI编程全自动指南](https://juejin.cn/post/7567196232107196459)
