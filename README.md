@@ -19,6 +19,7 @@
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
 
 #### 开源
+- [Archon](https://github.com/coleam00/Archon)
 - [crush](https://github.com/charmbracelet/crush)
 - [opencode](https://github.com/opencode-ai/opencode)
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban)
