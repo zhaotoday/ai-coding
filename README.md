@@ -79,6 +79,7 @@
 - [cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
 
 #### 文章
+- [iFlow CLI：强大的终端AI助手，开启智能编程新时代](https://juejin.cn/post/7574581079627317254)
 - [“最新国产代码大杀器”——MiniMax-M2！](https://juejin.cn/post/7568192652287868982)
 - [AGENTS.md](https://juejin.cn/post/7569532841870540826)
 - [AI Coding技巧与心得](https://juejin.cn/post/7551997631113199626)
