@@ -79,6 +79,7 @@
 - [cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
 
 #### 文章
+- [Ultracite：为 AI 时代打造的零配置代码规范工具](https://juejin.cn/post/7575090551356686388)
 - [iFlow CLI：强大的终端AI助手，开启智能编程新时代](https://juejin.cn/post/7574581079627317254)
 - [“最新国产代码大杀器”——MiniMax-M2！](https://juejin.cn/post/7568192652287868982)
 - [AGENTS.md](https://juejin.cn/post/7569532841870540826)
