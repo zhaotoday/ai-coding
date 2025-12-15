@@ -80,6 +80,7 @@
 - [cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
 
 #### 文章
+- [Antigravity：下一代 AI 编程助手完全指南](https://juejin.cn/post/7581423932612984872)
 - [工作中的Ai工具汇总](https://juejin.cn/post/7561280655223570478)
 - [Ultracite：为 AI 时代打造的零配置代码规范工具](https://juejin.cn/post/7575090551356686388)
 - [iFlow CLI：强大的终端AI助手，开启智能编程新时代](https://juejin.cn/post/7574581079627317254)
