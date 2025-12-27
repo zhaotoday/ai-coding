@@ -20,6 +20,7 @@
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
 
 #### 开源
+- [Code-Review-GPT-Gitlab](https://github.com/mimo-x/Code-Review-GPT-Gitlab)
 - [Auto-Claude](https://github.com/AndyMik90/Auto-Claude)
 - [A2UI](https://github.com/google/A2UI)
 - [AI-CodeReview](https://github.com/x-y-17/AI-CodeReview)
