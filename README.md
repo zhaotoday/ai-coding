@@ -85,6 +85,7 @@
 - [cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
 
 #### 文章
+- [AI Coding技巧与心得](https://juejin.cn/post/7551997631113199626)
 - [Claude Code Review：让AI审核更懂你的代码](https://juejin.cn/post/7559009457171857450)
 - [Antigravity：下一代 AI 编程助手完全指南](https://juejin.cn/post/7581423932612984872)
 - [工作中的Ai工具汇总](https://juejin.cn/post/7561280655223570478)
