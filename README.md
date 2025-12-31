@@ -85,6 +85,7 @@
 - [cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
 
 #### 文章
+- [AI提效这么多，为什么不试试自己开发N个产品呢？](https://juejin.cn/post/7569108298952769545)
 - [9 个 超绝的 AI 控制电脑 GitHub 开源项目](https://juejin.cn/post/7586680977854906431)
 - [AI Coding技巧与心得](https://juejin.cn/post/7551997631113199626)
 - [Claude Code Review：让AI审核更懂你的代码](https://juejin.cn/post/7559009457171857450)
