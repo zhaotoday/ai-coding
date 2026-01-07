@@ -20,6 +20,7 @@
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
 
 #### 开源
+- [planning-with-files](https://github.com/OthmanAdi/planning-with-files)
 - [plannotator](https://github.com/backnotprop/plannotator)
 - [SQLBot](https://github.com/dataease/SQLBot)
 - [Code-Review-GPT-Gitlab](https://github.com/mimo-x/Code-Review-GPT-Gitlab)
