@@ -17,6 +17,7 @@
 - [trypear](https://trypear.ai/)
 
 #### 文档
+- [Easy-Vibe](https://github.com/datawhalechina/easy-vibe)
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
 
 #### 开源
