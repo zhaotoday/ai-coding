@@ -21,6 +21,7 @@
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
 
 #### 开源
+- [plandex](https://github.com/plandex-ai/plandex)
 - [vibesdk](https://github.com/cloudflare/vibesdk)
 - [free-ai-coding](https://github.com/inmve/free-ai-coding)
 - [Mentha](https://github.com/beenruuu/Mentha)
