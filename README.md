@@ -21,6 +21,7 @@
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
 
 #### 开源
+- [happy](https://github.com/slopus/happy)
 - [grapesjs](https://github.com/GrapesJS/grapesjs)
 - [plandex](https://github.com/plandex-ai/plandex)
 - [vibesdk](https://github.com/cloudflare/vibesdk)
