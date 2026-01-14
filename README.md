@@ -97,6 +97,7 @@
 - [cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
 
 #### 文章
+- [AI + 可视化：Stagewise 如何让前端 UI 调试效率飞跃](https://juejin.cn/post/7535661303408050210)
 - [DeepSite：基于DeepSeek的开源AI前端开发神器，一键生成游戏/网页代码](https://juejin.cn/post/7488906984072577024)
 - [怕 AI 乱改代码？教你用 Hooks 给 Claude Code 戴上"紧箍咒"](https://juejin.cn/post/7592062873829867570)
 - [AI提效这么多，为什么不试试自己开发N个产品呢？](https://juejin.cn/post/7569108298952769545)
