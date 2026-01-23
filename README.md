@@ -104,6 +104,7 @@
 - [cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
 
 #### 文章
+- [拒绝成为落后的开发者：用TRAE Skills构建你的10倍效能工具箱](https://juejin.cn/post/7597724783649685544)
 - [AI + 可视化：Stagewise 如何让前端 UI 调试效率飞跃](https://juejin.cn/post/7535661303408050210)
 - [DeepSite：基于DeepSeek的开源AI前端开发神器，一键生成游戏/网页代码](https://juejin.cn/post/7488906984072577024)
 - [怕 AI 乱改代码？教你用 Hooks 给 Claude Code 戴上"紧箍咒"](https://juejin.cn/post/7592062873829867570)
