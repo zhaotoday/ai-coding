@@ -21,6 +21,9 @@
 - [Easy-Vibe](https://github.com/datawhalechina/easy-vibe)
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
 
+#### 笔记
+- [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
+
 #### 开源
 - [mr-agent](https://github.com/zixingtangmouren/mr-agent)
 - [add-skill](https://github.com/vercel-labs/add-skill)
