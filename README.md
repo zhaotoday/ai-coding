@@ -25,6 +25,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 开源
+- [pi-mono](https://github.com/badlogic/pi-mono)
 - [likec4](https://likec4.dev/)
 - [mr-agent](https://github.com/zixingtangmouren/mr-agent)
 - [add-skill](https://github.com/vercel-labs/add-skill)
