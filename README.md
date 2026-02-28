@@ -25,6 +25,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 开源
+- [react-doctor](https://github.com/millionco/react-doctor)
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 - [claudex](https://github.com/Mng-dev-ai/claudex)
 - [pi-mono](https://github.com/badlogic/pi-mono)
