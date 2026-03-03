@@ -20,6 +20,7 @@
 #### 文档
 - [Easy-Vibe](https://github.com/datawhalechina/easy-vibe)
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
+- [AI辅助开发的基础概念](https://niunaiclub.online/posts/70)
 
 #### 笔记
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
