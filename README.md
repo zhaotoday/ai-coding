@@ -115,6 +115,7 @@
 - [cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
 
 #### 文章
+- [创业半年，我用5个AI Agent替代了一个团队](https://juejin.cn/post/7606728595557400611)
 - [stagewise | 前端开发效率神器](https://juejin.cn/post/7516362698278109222)
 - [OpenCode：你的开源 AI 编程助手完全指南](https://juejin.cn/post/7593607642552811546)
 - [拒绝成为落后的开发者：用TRAE Skills构建你的10倍效能工具箱](https://juejin.cn/post/7597724783649685544)
