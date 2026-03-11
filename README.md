@@ -26,6 +26,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 开源
+- [FastCode](https://github.com/HKUDS/FastCode)
 - [t3code](https://github.com/pingdotgg/t3code)
 - [agency-agents](https://github.com/msitarzewski/agency-agents)
 - [react-doctor](https://github.com/millionco/react-doctor)
