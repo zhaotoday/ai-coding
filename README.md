@@ -26,6 +26,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 开源
+- [mastra-code-ui](https://github.com/mastra-ai/mastra-code-ui)
 - [happy](https://github.com/slopus/happy)
 - [FastCode](https://github.com/HKUDS/FastCode)
 - [t3code](https://github.com/pingdotgg/t3code)
