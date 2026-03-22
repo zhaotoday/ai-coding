@@ -26,6 +26,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 开源
+- [gstack](https://github.com/garrytan/gstack)
 - [AionUi](https://github.com/iOfficeAI/AionUi)
 - [mastra-code-ui](https://github.com/mastra-ai/mastra-code-ui)
 - [happy](https://github.com/slopus/happy)
