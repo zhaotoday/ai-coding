@@ -26,6 +26,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 开源
+- [open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript)
 - [claude-code-design-guide](https://github.com/6551Team/claude-code-design-guide)
 - [gstack](https://github.com/garrytan/gstack)
 - [AionUi](https://github.com/iOfficeAI/AionUi)
