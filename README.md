@@ -26,6 +26,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 开源
+- [goose](https://github.com/aaif-goose/goose)
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
 - [claw-code](https://github.com/ultraworkers/claw-code)
 - [claude-code](https://github.com/claude-code-best/claude-code)
