@@ -26,6 +26,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 开源
+- [cc-gateway](https://github.com/motiful/cc-gateway)
 - [goose](https://github.com/aaif-goose/goose)
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
 - [claw-code](https://github.com/ultraworkers/claw-code)
