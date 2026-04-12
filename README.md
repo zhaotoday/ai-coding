@@ -129,6 +129,7 @@
 - [cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
 
 #### 文章
+- [OpenSpec 完整使用流程笔记 （SDD)](https://juejin.cn/post/7615455795724648483)
 - [7个神级技巧，彻底去除网站的 AI 味儿！](https://juejin.cn/post/7600967006892490761)
 - [2026年新国内如何注册 Claude 账号保姆教程（成功率95%）](https://juejin.cn/post/7616281002122641408)
 - [创业半年，我用5个AI Agent替代了一个团队](https://juejin.cn/post/7606728595557400611)
