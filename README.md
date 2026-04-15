@@ -26,6 +26,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 开源
+- [open-vibe-island](https://github.com/Octane0411/open-vibe-island)
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
 - [cc-gateway](https://github.com/motiful/cc-gateway)
 - [goose](https://github.com/aaif-goose/goose)
