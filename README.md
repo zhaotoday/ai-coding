@@ -26,6 +26,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 开源
+- [gsd-2](https://github.com/gsd-build/gsd-2)
 - [microwind](https://github.com/microwind)
 - [open-vibe-island](https://github.com/Octane0411/open-vibe-island)
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
