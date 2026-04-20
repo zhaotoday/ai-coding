@@ -27,6 +27,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 开源
+- [awesome-autoresearch](https://github.com/alvinreal/awesome-autoresearch)
 - [gsd-2](https://github.com/gsd-build/gsd-2)
 - [microwind](https://github.com/microwind)
 - [open-vibe-island](https://github.com/Octane0411/open-vibe-island)
