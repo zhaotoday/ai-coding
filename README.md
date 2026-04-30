@@ -27,6 +27,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 开源
+- [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 - [free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 - [awesome-autoresearch](https://github.com/alvinreal/awesome-autoresearch)
 - [gsd-2](https://github.com/gsd-build/gsd-2)
