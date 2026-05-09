@@ -27,6 +27,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 开源
+- [cockpit-tools](https://github.com/jlcodes99/cockpit-tools)
 - [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 - [free-claude-code](https://github.com/Alishahryar1/free-claude-code)
