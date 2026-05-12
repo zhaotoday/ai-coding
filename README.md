@@ -27,6 +27,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 开源
+- [code-review-graph](https://github.com/tirth8205/code-review-graph)
 - [react-doctor](https://github.com/millionco/react-doctor)
 - [9router](https://github.com/decolua/9router)
 - [cockpit-tools](https://github.com/jlcodes99/cockpit-tools)
