@@ -29,6 +29,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 开源
+- [open-code-review](https://github.com/alibaba/open-code-review)
 - [multica](https://github.com/multica-ai/multica)
 - [ECC](https://github.com/affaan-m/ECC)
 - [Understand-Anything](https://github.com/Lum1104/Understand-Anything)
