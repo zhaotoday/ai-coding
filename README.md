@@ -29,6 +29,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 开源
+- [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
 - [open-code-review](https://github.com/alibaba/open-code-review)
 - [multica](https://github.com/multica-ai/multica)
 - [ECC](https://github.com/affaan-m/ECC)
