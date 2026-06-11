@@ -1,4 +1,5 @@
 #### 产品
+- [lazycodex](https://lazycodex.ai/)
 - [aionui](https://www.aionui.com/zh/)
 - [讯飞星辰MaaS平台](https://maas.xfyun.cn/packageSubscription)
 - [GLM Coding Plan](https://www.bigmodel.cn/glm-coding)
