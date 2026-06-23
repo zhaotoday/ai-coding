@@ -30,6 +30,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 开源
+- [Trellis](https://github.com/mindfold-ai/Trellis)
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 - [codegraph](https://github.com/colbymchenry/codegraph)
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
