@@ -32,6 +32,7 @@
 #### 规范化编程
 - [Gstack 探究](https://www.bilibili.com/video/BV1meRvBEEVn)
 - [AI编程实战：OpenSpec入门教程](https://www.bilibili.com/video/BV1AH5Y6MEz3)
+- [superpowers](https://github.com/obra/superpowers)
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec)
 - [mattpocock-skills-zh-CN](https://github.com/vinvcn/mattpocock-skills-zh-CN)
 - [spec-kit](https://github.com/github/spec-kit)
