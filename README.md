@@ -30,6 +30,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 规范化编程
+- [让你的 Claude Code 和 Codex 效率提升 10 倍！Trellis 使用教程](https://www.bilibili.com/video/BV1RgGi6sENH)
 - [Gstack 探究](https://www.bilibili.com/video/BV1meRvBEEVn)
 - [AI编程实战：OpenSpec入门教程](https://www.bilibili.com/video/BV1AH5Y6MEz3)
 - [comet](https://github.com/rpamis/comet)
