@@ -29,6 +29,9 @@
 #### 笔记
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
+#### 规范化编程
+- [Gstack 探究](https://www.bilibili.com/video/BV1meRvBEEVn)
+
 #### 开源
 - [Trellis](https://github.com/mindfold-ai/Trellis)
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
