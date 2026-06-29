@@ -31,6 +31,7 @@
 
 #### 规范化编程
 - [Gstack 探究](https://www.bilibili.com/video/BV1meRvBEEVn)
+- [AI编程实战：OpenSpec入门教程](https://www.bilibili.com/video/BV1AH5Y6MEz3)
 
 #### 开源
 - [Trellis](https://github.com/mindfold-ai/Trellis)
