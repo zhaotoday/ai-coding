@@ -43,6 +43,7 @@
 - [gstack](https://github.com/garrytan/gstack)
 
 #### 开源
+- [caveman](https://github.com/JuliusBrussee/caveman)
 - [ai-coding-lab](https://github.com/luzhenqian/ai-coding-lab)
 - [Trellis](https://github.com/mindfold-ai/Trellis)
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
