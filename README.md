@@ -30,6 +30,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 规范驱动开发
+- [OpenSpec 规范驱动开发详解 让 AI 编程变得可预测 —— Spec-Driven Development](https://www.bilibili.com/video/BV1jpDZBnEhB/)
 - [先对齐意图再写代码！OpenSpec让AI编程不再翻车｜AI编程实战 #04](https://www.bilibili.com/video/BV1hYwDzSE7A/)
 - [让你的 Claude Code 和 Codex 效率提升 10 倍！Trellis 使用教程](https://www.bilibili.com/video/BV1RgGi6sENH)
 - [Gstack 探究](https://www.bilibili.com/video/BV1meRvBEEVn)
