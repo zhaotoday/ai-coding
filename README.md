@@ -43,6 +43,7 @@
 - [gstack](https://github.com/garrytan/gstack)
 
 #### 开源
+- [system-prompts-and-models-of-ai-tools-chinese](https://github.com/IsHexx/system-prompts-and-models-of-ai-tools-chinese)
 - [caveman](https://github.com/JuliusBrussee/caveman)
 - [ai-coding-lab](https://github.com/luzhenqian/ai-coding-lab)
 - [Trellis](https://github.com/mindfold-ai/Trellis)
