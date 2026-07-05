@@ -41,6 +41,7 @@
 - [mattpocock-skills-zh-CN](https://github.com/vinvcn/mattpocock-skills-zh-CN)
 - [spec-kit](https://github.com/github/spec-kit)
 - [gstack](https://github.com/garrytan/gstack)
+- [potpie](https://github.com/potpie-ai/potpie)
 
 #### 开源
 - [system-prompts-and-models-of-ai-tools-chinese](https://github.com/IsHexx/system-prompts-and-models-of-ai-tools-chinese)
