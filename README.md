@@ -44,6 +44,7 @@
 - [potpie](https://github.com/potpie-ai/potpie)
 
 #### 开源
+- [cc-haha](https://github.com/NanmiCoder/cc-haha)
 - [system-prompts-and-models-of-ai-tools-chinese](https://github.com/IsHexx/system-prompts-and-models-of-ai-tools-chinese)
 - [caveman](https://github.com/JuliusBrussee/caveman)
 - [ai-coding-lab](https://github.com/luzhenqian/ai-coding-lab)
