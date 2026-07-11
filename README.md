@@ -44,6 +44,7 @@
 - [potpie](https://github.com/potpie-ai/potpie)
 
 #### 开源
+- [lobehub](https://github.com/lobehub/lobehub)
 - [Archon](https://github.com/coleam00/Archon)
 - [hermes-studio](https://github.com/EKKOLearnAI/hermes-studio)
 - [cc-haha](https://github.com/NanmiCoder/cc-haha)
