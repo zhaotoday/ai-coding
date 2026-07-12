@@ -30,6 +30,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 规范驱动开发
+- [OpenSpec 使用（规范驱动开发实战工具）](https://www.bilibili.com/video/BV1Kb5z6oEkP/)
 - [抛弃Superpowers？深度拆解OpenSpec：轻量级AI编程框架的逆袭](https://www.bilibili.com/video/BV1UuT96HEWV/)
 - [OpenSpec 规范驱动开发详解 让 AI 编程变得可预测 —— Spec-Driven Development](https://www.bilibili.com/video/BV1jpDZBnEhB/)
 - [先对齐意图再写代码！OpenSpec让AI编程不再翻车｜AI编程实战 #04](https://www.bilibili.com/video/BV1hYwDzSE7A/)
