@@ -37,6 +37,7 @@
 - [先对齐意图再写代码！OpenSpec让AI编程不再翻车｜AI编程实战 #04](https://www.bilibili.com/video/BV1hYwDzSE7A/)
 - [让你的 Claude Code 和 Codex 效率提升 10 倍！Trellis 使用教程](https://www.bilibili.com/video/BV1RgGi6sENH)
 - [Gstack 探究](https://www.bilibili.com/video/BV1meRvBEEVn)
+- [superpowers 探究](https://www.bilibili.com/video/BV1gCVV6tEJM/)
 - [AI编程实战：OpenSpec入门教程](https://www.bilibili.com/video/BV1AH5Y6MEz3)
 - [comet](https://github.com/rpamis/comet)
 - [superpowers](https://github.com/obra/superpowers)
