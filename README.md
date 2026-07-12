@@ -48,6 +48,7 @@
 - [potpie](https://github.com/potpie-ai/potpie)
 
 #### 开源
+- [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
 - [paseo](https://github.com/getpaseo/paseo)
 - [lobehub](https://github.com/lobehub/lobehub)
 - [Archon](https://github.com/coleam00/Archon)
