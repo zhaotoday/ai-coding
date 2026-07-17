@@ -22,6 +22,7 @@
 - [trypear](https://trypear.ai/)
 
 #### 文档
+- [OpenSpec 中文文档](https://openspec.radebit.com/)
 - [Easy-Vibe](https://github.com/datawhalechina/easy-vibe)
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
 - [AI辅助开发的基础概念](https://niunaiclub.online/posts/70)
