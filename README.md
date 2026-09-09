@@ -52,6 +52,7 @@
 - [potpie](https://github.com/potpie-ai/potpie)
 
 #### 开源
+- [CodingPlanQuota](https://github.com/MeIotCOM/CodingPlanQuota)
 - [superset](https://github.com/superset-sh/superset)
 - [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
 - [paseo](https://github.com/getpaseo/paseo)
