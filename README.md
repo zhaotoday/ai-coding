@@ -52,6 +52,7 @@
 - [potpie](https://github.com/potpie-ai/potpie)
 
 #### 开源
+- [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
 - [teamai-cli](https://github.com/Tencent/teamai-cli)
 - [CodingPlanQuota](https://github.com/MeIotCOM/CodingPlanQuota)
 - [superset](https://github.com/superset-sh/superset)
