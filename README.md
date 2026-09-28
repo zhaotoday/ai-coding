@@ -33,6 +33,7 @@
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
 #### 规范驱动开发
+- [GIthub 超火 AI 编程工作流 Matt Pocock Skills 、OpenSpec，保姆级教程详细讲解](https://www.bilibili.com/video/BV1c9M96LEoF/)
 - [别让 AI 瞎写了！彻底吃透 Matt Pocock Skills：给 Coding Agent 装上真正的工程心智！](https://www.bilibili.com/video/BV1DpaT6pEwJ/)
 - [精讲OpenSpec，从操作到原理，吃透这个AI编程提效的神器](https://www.bilibili.com/video/BV1eU5A6MERk)
 - [从头脑风暴到代码审查：Superpowers 完整工作流指南](https://www.bilibili.com/video/BV1w2PPzGENp/)
