@@ -52,7 +52,6 @@
 - [spec-kit](https://github.com/github/spec-kit)
 - [gstack](https://github.com/garrytan/gstack)
 - [potpie](https://github.com/potpie-ai/potpie)
-- [mattpocock-skills-zh-CN](https://github.com/vinvcn/mattpocock-skills-zh-CN)
 
 #### 开源
 - [archify](https://github.com/tt-a1i/archify)
