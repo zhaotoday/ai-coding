@@ -1,38 +1,127 @@
 #### 产品
+
+商业产品和托管服务。开源实现若已在后面单列，这里只写产品本身。
+
 - [阿里云 OPC](https://opc.aliyun.com/)
+
+  阿里云面向 AI 原生一人公司的创新助力计划，不是编程 IDE。权益包括 Token 补贴（页面写着无门槛先用后返，单客最高 100 万元等额 Token）、技术专家 1 对 1、接入云市场和 Qoder 等产品流量、品牌曝光，以及 Demo Day、天使融资链接和全国 OPC 创业空间。适合已经在用阿里云模型、想把 AI 应用做成生意的小团队，而不是找一个写代码的 Agent。
+
 - [lazycodex](https://lazycodex.ai/)
+
+  装进 Codex 的 Agent harness，底层是 OmO。它给复杂仓库补上项目记忆、计划、并行 Agent、skills、hooks、模型路由，以及做完之后的校验。Codex 仍是执行引擎，LazyCodex 负责让它按工程流程干活，而不是接到一句需求就直接改文件。
+
 - [aionui](https://www.aionui.com/zh/)
+
+  开源 Cowork 应用的产品站，源码是 [AionUi](https://github.com/iOfficeAI/AionUi)。用来把 Claude Code、Codex、OpenCode 等 CLI Agent 放进一个可长时间运行的桌面里：自定义助手、多 Agent 编组、远程访问。模型可以用自带 Agent，也可以填自己的 API key。
+
 - [讯飞星辰MaaS平台](https://maas.xfyun.cn/packageSubscription)
+
+  科大讯飞的模型精调与托管平台，这条链接打开的是套餐订阅页。平台覆盖数据增强、精调、效果评估和一键部署，兼容主流开源模型，也支持托管第三方模型。训练侧用自研分布式架构和 LoRA 一类参数高效方法，把行业模型定制收成可重复的工程流程。适合要在讯飞体系里微调并上线模型的团队，不是终端编程助手。
+
 - [GLM Coding Plan](https://www.bigmodel.cn/glm-coding)
+
+  智谱 BigModel 上的编程订阅，用来在编程工具里使用 GLM 系列模型。它按套餐提供编码用量，而不是走通用开放平台的按量 API。页面是 JavaScript 应用，具体档位、额度和可接入的工具以站内当前套餐为准。
+
 - [方舟 Coding Plan](https://www.volcengine.com/activity/codingplan)
+
+  火山引擎方舟的编程订阅。可以在 DeepSeek-V4.1-Flash、GLM-5.3 系列、Doubao-Seed-Evolving、Kimi-K3、Kimi-K2.8-Preview 等模型之间切换，也可以交给 Auto 调度。工具侧覆盖 Claude Code、Codex CLI、TRAE、OpenCode，并写明已支持 OpenClaw 和 Hermes Agent。页面同时有 Lite / Pro 和 Agent Plan，促销价写着限时 9.9 元起，价格以活动页为准。
+
 - [qodo](https://www.qodo.ai/)
+
+  面向团队的 AI 代码审查产品。它先建立代码库上下文，再在 IDE、PR 和安全检查里跑十多种 Agent 工作流，目标是让审查有仓库级依据，而不是只看一段 diff。适合把质量门禁放进现有交付流程的团队。
+
 - [code.fun](https://code.fun/)
+
+  CodeFun，把 UI 设计稿生成前端源码。上传稿子后自动清理无用图层、修正像素误差、识别列表和栅格，并推算 Flex 布局，输出接近手写的 Vue 或微信小程序代码，也能打包切图。设计师不用改自己的画稿流程。运营主体页面写的是深圳光速软件科技有限公司。
+
 - [flowstep](https://flowstep.ai/)
+
+  AI 设计工具。用提示词生成多屏界面，之后可以继续用对话改，也可以手动改。结果能复制到 Figma、导出代码，或通过 MCP 接到 IDE。它站在设计和实现之间，不是从零写后端的编程 Agent。
+
 - [iFlow CLI](https://platform.iflow.cn/cli/quickstart)
+
+  心流开放平台的终端 AI 助手，用来分析代码、改文件和跑命令，支持斜杠命令、`@` 引用文件、子 Agent 和 MCP。官方文档写明：iFlow CLI 于 2026 年 4 月 17 日（北京时间）停止服务，并请用户迁到 Qoder。这条链接现在是停服后的快速开始文档，不适合当作还在运营的安装入口。
+
 - [bolt.new](https://bolt.new/)
+
+  StackBlitz 的浏览器 AI 应用搭建器。用自然语言生成网站、应用和原型，并在浏览器里预览和继续改。适合从一句话做出可点的前端，而不是接管一个已有的大型仓库。
+
 - [v0](https://v0.app/)
+
+  Vercel 的 AI 全栈搭建助手。用来设计、迭代和扩展 Web 应用，生成结果直接落在 Vercel 的前端和部署体系里。适合做界面和全栈原型，并由团队一起改，而不是通用的本地终端 Agent。
+
 - [mastergo](https://mastergo.com/)
+
+  莫高设计，国产在线产品设计平台，对标可协作的 Sketch / Figma。支持界面、原型、交互和设计系统，多人实时协作，并把设计放到 AI 时代的界面生产流程里。主要用户是设计师、产品经理和要接设计稿的工程师。
+
 - [comate](https://comate.baidu.com/zh)
+
+  百度文心快码，基于文心大模型的编程辅助工具。提供代码生成、单元测试、注释和智能问答，覆盖上百种语言。它是写代码时的搭档，不是一条独立的多 Agent 编排平台。
+
 - [humanlayer](https://www.humanlayer.dev/)
+
+  给软件工厂用的多人控制面。把 Agent 会话、计划产物和代码 diff 放在同一个 IDE 与云环境里，让团队一起协作和交付。重点是人如何审查和接手 Agent 的工作，而不是再做一个补全插件。
+
 - [CodeBuddy](https://copilot.tencent.com/ide/)
+
+  腾讯云代码助手的 IDE，品牌是 CodeBuddy。旧地址会跳到 [codebuddy.cn/ide](https://www.codebuddy.cn/ide/)。定位是 AI 编程伙伴，在自己的编辑器里完成智能编程，而不是只做编辑器插件。
+
 - [penpot](https://penpot.app/)
+
+  开源设计平台的托管站，源码是 [penpot/penpot](https://github.com/penpot/penpot)。给做数字产品的团队用，设计、代码和 AI 工作流可以放在一起，也可以自建。协议为 MPL-2.0。
+
 - [kiro](https://kiro.dev/)
+
+  把 AI 编程往规范工程推的产品。提示先变成可执行的规格，再用校验找出单测覆盖不到的问题，并让多个 Agent 在大仓库上并行工作、从每次会话里积累经验。适合规格和正确性比「一次生成整页」更重要的团队。
+
 - [trae](https://www.trae.ai/)
+
+  TRAE 现在分成两个产品：TraeCode 是 AI 编程工程师，TraeWork 是办公助手，官网分别提供下载，TraeWork 也有网页版。编程相关的是 TraeCode，用来加快从需求到代码的交付。
+
 - [windsurf](https://windsurf.com/)
+
+  这个地址现在会跳到 [Devin Desktop](https://devin.ai/desktop)。Devin Desktop 在一个界面里管理一批本地和云端 Agent，用来计划、分派、审查和交付，而不必离开编辑器。它已经不是早先那个独立的 Windsurf 补全编辑器。
+
 - [qoder](https://qoder.com/)
+
+  AI 编程平台，提供代码补全、对话式编程和自动生成，支持 VS Code 和 JetBrains，可以免费下载。心流文档把停服后的 iFlow CLI 用户指向 Qoder。适合要留在现有 IDE 里、又想换成这套 Agent 的人。
+
 - [trypear](https://trypear.ai/)
 
+  PearAI，开源 AI 代码编辑器。内置 AI 对话、PearAI Creator 和 AI 调试，用来在一个编辑器里做下一个项目。它是完整编辑器，不是某个 IDE 的插件。
+
 #### 文档
+
 - [OpenSpec-practise](https://github.com/ForceInjection/OpenSpec-practise)
+
+  AI 原力注入社区的 OpenSpec 实战仓库。用一个完整案例演示规范驱动开发：`.claude` 里放 `/opsx` 命令和对应技能，`docs` 里放理论说明和使用手册，并带多语言示例。适合想看 OpenSpec 落在真实项目目录里是什么样，而不是只读概念的人。
+
 - [OpenSpec 中文文档](https://openspec.radebit.com/)
+
+  OpenSpec 2.x 的中文文档站。内容包括安装、specs / changes / artifacts、`/opsx:propose` 到 `/opsx:archive` 的命令，以及 CLI 和自定义配置。文档把流程概括成先对齐意图再写代码：流动、可迭代、偏简单，并且优先照顾已有项目。
+
 - [Easy-Vibe](https://github.com/datawhalechina/easy-vibe)
+
+  Datawhale 的 vibe coding 入门课，口号是从零开始用 AI 编程，把想法做成真正的产品。教程有约 10 种语言。它是课程仓库，不是 Agent 或脚手架。
+
 - [详解8款AI编程工具：哪款更适合你？](https://r2eid0qxt4.feishu.cn/wiki/U5bQwejpBixYEjkCASJcsmdInfK)
+
+  飞书知识库文档。标题说明它在比较 8 款 AI 编程工具各自适合什么人。正文在飞书里，这里不转写。
+
 - [AI辅助开发的基础概念](https://niunaiclub.online/posts/70)
 
+  一篇概念说明，页面摘要是三件事：AI 能帮开发做什么、要先理解哪些概念、怎样把 AI 用好。适合在挑具体工具之前建立共同词汇。
+
 #### 笔记
+
 - [Cluade Code学习笔记](https://uahbgrt760r.feishu.cn/wiki/O9i6wr1CaixnBrkOrhQcHWmtnTM)
 
+  飞书知识库里的 Claude Code 学习笔记（标题里的 Cluade 是原文拼写）。正文在飞书中，这里不转写。
+
 #### 规范驱动开发
+
+视频标题本身就是内容说明，下面只给仓库补介绍。
+
 - [GIthub 超火 AI 编程工作流 Matt Pocock Skills 、OpenSpec，保姆级教程详细讲解](https://www.bilibili.com/video/BV1c9M96LEoF/)
 - [别让 AI 瞎写了！彻底吃透 Matt Pocock Skills：给 Coding Agent 装上真正的工程心智！](https://www.bilibili.com/video/BV1DpaT6pEwJ/)
 - [精讲OpenSpec，从操作到原理，吃透这个AI编程提效的神器](https://www.bilibili.com/video/BV1eU5A6MERk)
@@ -46,12 +135,32 @@
 - [superpowers 探究](https://www.bilibili.com/video/BV1gCVV6tEJM/)
 - [AI编程实战：OpenSpec入门教程](https://www.bilibili.com/video/BV1AH5Y6MEz3)
 - [comet](https://github.com/rpamis/comet)
+
+  可恢复的长任务工作流和 Skill 平台，0.4.0 起有两条需求路径。Native 交给较强模型自己规划、实现、测试和审查，Comet 负责状态、验收和可恢复归档。Classic 保留 OpenSpec 加 Superpowers 的分阶段方法。复杂需求可以拆成有依赖关系的子变更，在独立 worktree 里并行做完再按依赖合回去。Skill 用 Rubric、Pass@k 和 Pass^k 来评估和迭代。
+
 - [superpowers](https://github.com/obra/superpowers)
+
+  一套让编程 Agent 必须遵守的开发方法，由可组合的 skills 和开场指令组成。Agent 不能一上来就写代码：先问清目标，分段给出可读的设计，确认后再写一份强调红绿 TDD、YAGNI 和 DRY 的实现计划，然后用子 Agent 按任务做、检查并继续。支持 Claude Code、Codex、Cursor、OpenCode、Pi、Gemini CLI 等。一次会话可以按计划自主跑较长时间。
+
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec)
+
+  给 AI 编程助手用的规范驱动框架。先用 `/opsx:propose` 把一句话变成 proposal、specs、design 和 tasks，再实现、校验和归档。作者强调流程可迭代、偏轻，并且优先照顾已有代码库。npm 包是 `@fission-ai/openspec`。开源分类里也有这个仓库。
+
 - [mattpocock-skills-zh-CN](https://github.com/vinvcn/mattpocock-skills-zh-CN)
+
+  `mattpocock/skills` 的简体中文版。只翻译说明文字，目录名、技能名、命令、代码、路径和工具标识保持英文，避免装上之后跑不起来。面向中文开发者，以及主要用中文交互的模型。翻译按内容同步上游，不复制上游的 Git 历史。
+
 - [spec-kit](https://github.com/github/spec-kit)
+
+  GitHub 的开源 Spec Kit。给编程 Agent 提供可复用的流程、模板和要留下来的产物，三条入口互不绑定：用规范做功能、用缺陷修复流程查因并验证、用想法评估决定做不做。核心是规范驱动开发，后两条是按需安装的扩展。需要 Python 3.11+ 和 uv，用 `specify` 初始化项目并接到已有的编程 Agent。文档有简体中文。
+
 - [gstack](https://github.com/garrytan/gstack)
+
+  Y Combinator CEO Garry Tan 公开的一套 Claude Code 工具，大约 23 个角色，分别承担 CEO、设计师、工程经理、发布经理、文档工程师和 QA。目标是让一个人按小团队的节奏交付。开源分类里也有这个仓库。
+
 - [potpie](https://github.com/potpie-ai/potpie)
+
+  把代码库和研发流程做成给 Agent 用的上下文图。索引代码、结构、决策、历史、团队知识和工程流程，让 Agent 按这个项目来回答、计划、排错和改代码。用 `uv` 或 pip 安装 CLI，`potpie setup` 配好本地守护进程和技能，再在选定的编程 Agent 里使用。`potpie ui` 在浏览器里打开图。可连接 GitHub、Linear 等来源。
 
 #### 开源
 
@@ -610,7 +719,10 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。仓库若已改�
   一篇综述型仓库：作者说梳理了 1000 多篇论文，把氛围编程从代码模型、编程 Agent、开发环境到反馈机制串起来。它更接近文献地图，不是手把手教程，也不是软件工具列表。
 
 #### 工具
+
 - [cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
+
+  作者已在 README 写明项目过时且不再维护。它原先用来自动化绕过 Cursor 的订阅限制，许可证是 CC BY-NC-ND 4.0，声明仅供学习、不得商用。作者现在建议改用 Claude Code 或 Codex，不再推荐继续用这个仓库。
 
 #### 文章
 - [OpenSpec 完整使用流程笔记 （SDD)](https://juejin.cn/post/7615455795724648483)
