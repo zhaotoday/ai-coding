@@ -2,6 +2,14 @@
 
 商业产品和托管服务。开源实现若已在后面单列，这里只写产品本身。
 
+- [Claude Code](https://claude.com/product/claude-code)
+
+  Anthropic 的编程 Agent。能读整个仓库、改文件、跑命令，并接到现有的开发工具。可以在终端、IDE、桌面应用和浏览器里用。
+
+- [Codex](https://github.com/openai/codex)
+
+  OpenAI 开源的轻量编程 Agent，在终端里运行。它读本地仓库、改文件并执行命令，用来完成完整的编程任务，而不是只做行内补全。
+
 - [阿里云 OPC](https://opc.aliyun.com/)
 
   阿里云面向 AI 原生一人公司的创新助力计划，不是编程 IDE。权益包括 Token 补贴（页面写着无门槛先用后返，单客最高 100 万元等额 Token）、技术专家 1 对 1、接入云市场和 Qoder 等产品流量、品牌曝光，以及 Demo Day、天使融资链接和全国 OPC 创业空间。适合已经在用阿里云模型、想把 AI 应用做成生意的小团队，而不是找一个写代码的 Agent。
@@ -38,10 +46,6 @@
 
   AI 设计工具。用提示词生成多屏界面，之后可以继续用对话改，也可以手动改。结果能复制到 Figma、导出代码，或通过 MCP 接到 IDE。它站在设计和实现之间，不是从零写后端的编程 Agent。
 
-- [iFlow CLI](https://platform.iflow.cn/cli/quickstart)
-
-  心流开放平台的终端 AI 助手，用来分析代码、改文件和跑命令，支持斜杠命令、`@` 引用文件、子 Agent 和 MCP。官方文档写明：iFlow CLI 于 2026 年 4 月 17 日（北京时间）停止服务，并请用户迁到 Qoder。这条链接现在是停服后的快速开始文档，不适合当作还在运营的安装入口。
-
 - [bolt.new](https://bolt.new/)
 
   StackBlitz 的浏览器 AI 应用搭建器。用自然语言生成网站、应用和原型，并在浏览器里预览和继续改。适合从一句话做出可点的前端，而不是接管一个已有的大型仓库。
@@ -62,9 +66,9 @@
 
   给软件工厂用的多人控制面。把 Agent 会话、计划产物和代码 diff 放在同一个 IDE 与云环境里，让团队一起协作和交付。重点是人如何审查和接手 Agent 的工作，而不是再做一个补全插件。
 
-- [CodeBuddy](https://copilot.tencent.com/ide/)
+- [CodeBuddy](https://www.codebuddy.cn/ide/)
 
-  腾讯云代码助手的 IDE，品牌是 CodeBuddy。旧地址会跳到 [codebuddy.cn/ide](https://www.codebuddy.cn/ide/)。定位是 AI 编程伙伴，在自己的编辑器里完成智能编程，而不是只做编辑器插件。
+  腾讯云代码助手的 IDE，品牌是 CodeBuddy。定位是 AI 编程伙伴，在自己的编辑器里完成智能编程，而不是只做编辑器插件。
 
 - [penpot](https://penpot.app/)
 
@@ -78,13 +82,13 @@
 
   TRAE 现在分成两个产品：TraeCode 是 AI 编程工程师，TraeWork 是办公助手，官网分别提供下载，TraeWork 也有网页版。编程相关的是 TraeCode，用来加快从需求到代码的交付。
 
-- [windsurf](https://windsurf.com/)
+- [Devin Desktop](https://devin.ai/desktop)
 
-  这个地址现在会跳到 [Devin Desktop](https://devin.ai/desktop)。Devin Desktop 在一个界面里管理一批本地和云端 Agent，用来计划、分派、审查和交付，而不必离开编辑器。它已经不是早先那个独立的 Windsurf 补全编辑器。
+  Cognition 的桌面控制面，用来管理一批本地和云端 Agent。可以在同一个界面里做计划、把任务分给 Agent、审查改动并交付，而不必离开编辑器。
 
 - [qoder](https://qoder.com/)
 
-  AI 编程平台，提供代码补全、对话式编程和自动生成，支持 VS Code 和 JetBrains，可以免费下载。心流文档把停服后的 iFlow CLI 用户指向 Qoder。适合要留在现有 IDE 里、又想换成这套 Agent 的人。
+  AI 编程平台，提供代码补全、对话式编程和自动生成，支持 VS Code 和 JetBrains，可以免费下载。适合要留在现有 IDE 里、又想换成这套 Agent 的人。
 
 - [trypear](https://trypear.ai/)
 
@@ -186,10 +190,6 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。仓库若已改�
 
   Linux 基金会 Agentic AI Foundation 下的开源 Agent，用 Rust 写，同时提供 macOS、Linux、Windows 桌面应用、CLI 和可嵌入的 API。不限于写代码，也可以做调研、写作、自动化和数据分析。支持 Anthropic、OpenAI、Google、Ollama、OpenRouter、Azure、Bedrock 等 15 家以上供应商，也能用已有的 Claude、ChatGPT、Gemini 订阅，并通过 MCP 接 70 多个扩展。
 
-- [continue](https://github.com/continuedev/continue) · ⭐ 36,106
-
-  早期有代表性的开源编程 Agent，提供 CLI、VS Code 扩展和 JetBrains 插件，配置方式集中在官方文档。仓库说明里写明 `continuedev/continue` 已不再积极维护，对所有用户只读，最后一次发布是打磨过的 2.0.0，去掉了匿名遥测和登录。可以当历史实现和本地配置参考，不适合当作还在迭代的主工具。
-
 - [tabby](https://github.com/TabbyML/tabby) · ⭐ 33,893
 
   可自托管的 AI 编程助手，定位是 GitHub Copilot 的开源、本地部署替代。不依赖独立数据库或云服务，自带 OpenAPI，方便接到 Cloud IDE 等已有设施。有 Docker 镜像和中文、日文文档。适合必须把模型和补全服务留在内网的团队，而不是再套一层商业 IDE。
@@ -284,7 +284,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。仓库若已改�
 
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) · ⭐ 28,257
 
-  用看板管 Claude Code、Gemini CLI、Codex 等编程 Agent 的计划与执行。issue 用来排优先级和分工，工作区给 Agent 单独的分支、终端和开发服务器。作者已公告项目正在日落，仓库仍在，但不要把它当成长期维护的新产品。适合参考「人负责计划和审查、Agent 负责执行」这种分工，而不是作为新部署的第一选择。
+  用看板管 Claude Code、Gemini CLI、Codex 等编程 Agent。issue 用来排优先级，工作区给 Agent 单独的分支、终端和开发服务器，并可以在界面里看 diff、写行内评论和预览应用。2026 年 4 月，背后的公司 bloop 关闭，远程的团队看板和账号服务已下线。仓库继续作为社区维护的开源项目，本地工作区仍然可用。
 
 - [t3code](https://github.com/pingdotgg/t3code) · ⭐ 24,878
 
@@ -610,10 +610,6 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。仓库若已改�
 
 让 Agent 生成的代码在隔离环境里跑，而不是直接打在开发机上。
 
-- [daytona](https://github.com/daytonaio/daytona) · ⭐ 71,670
-
-  跑 AI 生成代码的弹性基础设施，强调隔离和弹性伸缩。README 写明：2026 年 6 月起核心开发已转到私有代码库，这个公开仓库不再更新，但仍可按原许可证使用和分叉。后续官方资源在 github.com/daytona。Star 数仍高，是因为历史积累，不代表公开仓库还在发版。
-
 - [E2B](https://github.com/e2b-dev/E2B) · ⭐ 14,146
 
   给企业级 Agent 用的开源安全运行环境，在隔离沙箱里提供真实工具。代码解释器的 JavaScript 和 Python SDK 也在这个 monorepo 里，用来执行模型生成的代码。适合在自己的 AI 应用里跑不受信任的代码，而不是直接打在开发机上。
@@ -654,10 +650,6 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。仓库若已改�
 
   Vilson Vieira 和 Eric S. Raymond 写的 AI 编程路线图，把分散的模型、编辑器、氛围编程实践、MCP 等协议收成一份可以跟着走的说明。仓库定位是地图，不是工具。适合刚开始系统使用 AI 写代码、需要一份总览而不是又一个 CLI 的人。
 
-- [claude-init](https://github.com/cfrs2005/claude-init) · ⭐ 1,359
-
-  2025 年 7 月的 Claude Code 项目初始化模板，面向中文开发者，打包了中文化体验、MCP、上下文管理和安全扫描。作者已归档，并强调它不是 Claude 汉化包，只作学习参考，因为 Claude Code 本身迭代很快。不要把它当成还在跟进官方版本的安装器。
-
 - [claude-code-design-guide](https://github.com/6551Team/claude-code-design-guide) · ⭐ 879
 
   写给开发者的 Claude Code 设计解析，从早期互联网里的设计模式讲到 AI Agent 怎么落地。内容覆盖工具调用、上下文工程、多 Agent、权限和扩展，目标是看懂一个 Agent 运行时怎么搭，而不是只学几条斜杠命令。中文为主，并有英文和韩文 README。读者从初学者到要自己做 Agent 系统的人都包括。
@@ -696,11 +688,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。仓库若已改�
 
 - [awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) · ⭐ 2,129
 
-  AI 编程工具目录，按编辑器、Agent、补全、审查、测试等分类。面向开发者和团队，接受 PR 补充。和下面 Sourcegraph 那份相比，这份还在更新，分类也更接近 2026 年的工具形态。
-
-- [awesome-code-ai](https://github.com/sourcegraph/awesome-code-ai) · ⭐ 1,694
-
-  Sourcegraph 维护过的 AI 编程工具列表，覆盖助手、补全和重构。仓库已经归档，里面的产品名有不少已过时，例如早期的 Codeium、Fauxpilot。留作历史索引，新工具优先看还在更新的清单。
+  AI 编程工具目录，按编辑器、Agent、补全、审查、测试等分类。面向开发者和团队，接受 PR 补充，清单还在更新。
 
 - [system-prompts-and-models-of-ai-tools-chinese](https://github.com/IsHexx/system-prompts-and-models-of-ai-tools-chinese) · ⭐ 1,241
 
@@ -717,12 +705,6 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。仓库若已改�
 - [Awesome-Vibe-Coding](https://github.com/YuyaoGe/Awesome-Vibe-Coding) · ⭐ 122
 
   一篇综述型仓库：作者说梳理了 1000 多篇论文，把氛围编程从代码模型、编程 Agent、开发环境到反馈机制串起来。它更接近文献地图，不是手把手教程，也不是软件工具列表。
-
-#### 工具
-
-- [cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
-
-  作者已在 README 写明项目过时且不再维护。它原先用来自动化绕过 Cursor 的订阅限制，许可证是 CC BY-NC-ND 4.0，声明仅供学习、不得商用。作者现在建议改用 Claude Code 或 Codex，不再推荐继续用这个仓库。
 
 #### 文章
 - [OpenSpec 完整使用流程笔记 （SDD)](https://juejin.cn/post/7615455795724648483)
