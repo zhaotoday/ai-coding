@@ -55,7 +55,7 @@
 
 #### 开源
 
-Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的重复链接已合并，地址改为当前仓库，介绍里保留原名单中的名字。每个分类内按 Star 从高到低排列。没有公开 Star 的站点放在该分类末尾。
+Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。仓库若已改名，条目使用当前仓库名。每个分类内按 Star 从高到低排列。没有公开 Star 的站点放在该分类末尾。
 
 ##### 编程 Agent 与 IDE
 
@@ -63,7 +63,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [opencode](https://github.com/anomalyco/opencode) · ⭐ 211,676
 
-  开源 AI 编程 Agent，官网 [opencode.ai](https://opencode.ai)。提供终端 CLI，支持 npm、bun、pnpm、yarn、scoop、choco、brew 和 Arch 的 pacman 安装，文档有简体中文等多种语言。仓库已从 `sst/opencode` 迁到 `anomalyco/opencode`。它跑在本机项目目录里，用来读代码、改文件、执行命令，是目前名单里 Star 最高的编程 Agent 本体。
+  开源 AI 编程 Agent，官网 [opencode.ai](https://opencode.ai)。提供终端 CLI，支持 npm、bun、pnpm、yarn、scoop、choco、brew 和 Arch 的 pacman 安装，文档有简体中文等多种语言。它跑在本机项目目录里，用来读代码、改文件、执行命令，是目前名单里 Star 最高的编程 Agent 本体。
 
 - [claw-code](https://github.com/ultraworkers/claw-code) · ⭐ 195,223
 
@@ -71,7 +71,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [pi](https://github.com/earendil-works/pi) · ⭐ 112,301
 
-  原名单中的 `badlogic/pi-mono`，现地址是 `earendil-works/pi`。一套可扩展的 Agent harness：统一的多供应商 LLM API、带工具调用的 Agent 循环、终端 UI，以及编码 Agent CLI。默认故意不做子 Agent 和 plan mode，改用扩展、skills、提示模板、主题和可通过 npm 或 git 分发的 Pi 包来定制。可以交互使用，也可以走 print、JSON、RPC，或用 TypeScript SDK 嵌进别的应用。Node.js 需要 22.19 以上。它本身不限制文件系统和网络权限，需要隔离时要自己放进容器。
+  一套可扩展的 Agent harness：统一的多供应商 LLM API、带工具调用的 Agent 循环、终端 UI，以及编码 Agent CLI。默认故意不做子 Agent 和 plan mode，改用扩展、skills、提示模板、主题和可通过 npm 或 git 分发的 Pi 包来定制。可以交互使用，也可以走 print、JSON、RPC，或用 TypeScript SDK 嵌进别的应用。Node.js 需要 22.19 以上。它本身不限制文件系统和网络权限，需要隔离时要自己放进容器。
 
 - [goose](https://github.com/aaif-goose/goose) · ⭐ 54,927
 
@@ -87,7 +87,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [crush](https://github.com/charmbracelet/crush) · ⭐ 28,480
 
-  Charm 团队做的终端编程 Agent，作者把更早的 `opencode-ai/opencode` 收进了这个项目。会话可以多开，中途能换模型且保留上下文，会用 LSP 补上下文，也能通过 MCP（http、stdio、sse）加能力。模型可以是内置列表，也可以接任何 OpenAI 或 Anthropic 兼容接口。macOS、Linux、Windows PowerShell 的终端都是一等支持。
+  Charm 团队做的终端编程 Agent。会话可以多开，中途能换模型且保留上下文，会用 LSP 补上下文，也能通过 MCP（http、stdio、sse）加能力。模型可以是内置列表，也可以接任何 OpenAI 或 Anthropic 兼容接口。macOS、Linux、Windows PowerShell 的终端都是一等支持。
 
 - [kilocode](https://github.com/Kilo-Org/kilocode) · ⭐ 27,488
 
@@ -111,11 +111,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [Aperant](https://github.com/AndyMik90/Aperant) · ⭐ 14,578
 
-  原名单中的 Auto-Claude。自主多 Agent 编程框架，负责规划、实现和验证。作者说明项目没有停，正在把整个应用重写成 Aperant 3.0：在本地桌面之外加云能力，协议仍是 AGPL-3.0。因此现在的提交历史看起来会比较静，功能以 3.0 重建为准。
-
-- [opencode](https://github.com/opencode-ai/opencode) · ⭐ 13,786
-
-  用 Go 写的早期终端编程助手，仓库已归档。项目由原作者和 Charm 团队继续，新家是 [crush](https://github.com/charmbracelet/crush)。这里保留是因为原名单单独列了它；新工作不要再往这个地址提。
+  自主多 Agent 编程框架，负责规划、实现和验证。作者说明项目没有停，正在把整个应用重写成 Aperant 3.0：在本地桌面之外加云能力，协议仍是 AGPL-3.0。因此现在的提交历史看起来会比较静，功能以 3.0 重建为准。
 
 - [MonkeyCode](https://github.com/chaitin/MonkeyCode) · ⭐ 4,789
 
@@ -123,11 +119,11 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [auto-dev](https://github.com/phodal/auto-dev) · ⭐ 4,553
 
-  原名单中的 `unit-mesh/auto-dev`，现仓库是 `phodal/auto-dev`。AutoDev Xiuper 是基于 Kotlin Multiplatform 的多 Agent 开发平台，目标是同一套能力覆盖文档调研、编码、代码审查、数据查询、产物生成和 Web 交互，并跑在 IntelliJ、VS Code、CLI、桌面 JVM、Android、iOS、JS/WASM 和 Server 上。目前 README 标的是 3.0 Alpha。
+  AutoDev Xiuper 是基于 Kotlin Multiplatform 的多 Agent 开发平台，目标是同一套能力覆盖文档调研、编码、代码审查、数据查询、产物生成和 Web 交互，并跑在 IntelliJ、VS Code、CLI、桌面 JVM、Android、iOS、JS/WASM 和 Server 上。目前 README 标的是 3.0 Alpha。
 
 - [costrict](https://github.com/zgsm-ai/costrict) · ⭐ 4,444
 
-  原名单链接的是官网 [costrict.ai](https://costrict.ai/)，站点标题是「企业级 AI 研发基础设施」。对应开源仓库是 `zgsm-ai/costrict`，定位是面向企业的严格 AI 编程器，包含 AI Agent、AI Code Review 和 AI 补全，强调质量优先而不是一次性生成。Star 数是这个 GitHub 仓库的。
+  面向企业的 AI 编程器，官网 [costrict.ai](https://costrict.ai/)。包含 AI Agent、AI Code Review 和 AI 补全，强调质量优先而不是一次性生成。
 
 - [open-agent-sdk](https://github.com/codeany-ai/open-agent-sdk-typescript) · ⭐ 2,744
 
@@ -135,7 +131,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [autoforge](https://github.com/AutoForgeAI/autoforge) · ⭐ 1,771
 
-  原名单中的 `leonvanzyl/autocoder`。基于 Claude Agent SDK 的长时自主编程 Agent，用初始化 Agent 加编码 Agent 的两段式循环，跨多个会话把应用做完，并带一个 React 界面看进度。README 提醒：把 Claude 订阅登录接到第三方 Agent 可能违反 Anthropic 政策，建议改用控制台 API key。
+  基于 Claude Agent SDK 的长时自主编程 Agent，用初始化 Agent 加编码 Agent 的两段式循环，跨多个会话把应用做完，并带一个 React 界面看进度。README 提醒：把 Claude 订阅登录接到第三方 Agent 可能违反 Anthropic 政策，建议改用控制台 API key。
 
 - [neovate-code](https://github.com/neovateai/neovate-code) · ⭐ 1,560
 
@@ -187,7 +183,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [happy](https://github.com/slopus/happy) · ⭐ 24,004
 
-  Claude Code 和 Codex 的手机与 Web 客户端，带实时语音和端到端加密。有 macOS 桌面、iOS、Android 和 app.happy.engineering。电脑上安装 `happy` CLI 后，手机端连的是你自己的会话，而不是把代码交到第三方托管 Agent。原名单里这条链接出现了两次，这里只保留一条。
+  Claude Code 和 Codex 的手机与 Web 客户端，带实时语音和端到端加密。有 macOS 桌面、iOS、Android 和 app.happy.engineering。电脑上安装 `happy` CLI 后，手机端连的是你自己的会话，而不是把代码交到第三方托管 Agent。
 
 - [paseo](https://github.com/getpaseo/paseo) · ⭐ 19,403
 
@@ -203,7 +199,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [ekko-studio](https://github.com/EKKOLearnAI/ekko-studio) · ⭐ 11,293
 
-  原名单中的 hermes-studio。本地优先的多 Agent 工作区，桌面应用和可自托管的 Web 控制台都有，覆盖聊天、编码和可视化流程。支持 Hermes Agent、Ekko Agent、Claude Code、Codex、Pi、Grok、OpenCode 和 DeepSeek Harness。npm 包现为 `ekko-studio`，旧的 `hermes-web-ui` 命令还保留着。
+  本地优先的多 Agent 工作区，桌面应用和可自托管的 Web 控制台都有，覆盖聊天、编码和可视化流程。支持 Hermes Agent、Ekko Agent、Claude Code、Codex、Pi、Grok、OpenCode 和 DeepSeek Harness。npm 包是 `ekko-studio`。
 
 - [open-vibe-island](https://github.com/Octane0411/open-vibe-island) · ⭐ 2,041
 
@@ -211,7 +207,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [agentrove](https://github.com/Mng-dev-ai/agentrove) · ⭐ 332
 
-  原名单中的 claudex。可自托管的编程工作区，用 ACP 适配器同时跑 Antigravity、Claude Code、Codex、Copilot、Cursor、Grok 和 OpenCode。每个工作区可以是 Docker 或本机沙箱，里面有聊天、编辑器、终端、文件树、diff、密钥和 git。工作区可以来自空目录、git clone、本地文件夹或 GitHub 仓库。
+  可自托管的编程工作区，用 ACP 适配器同时跑 Antigravity、Claude Code、Codex、Copilot、Cursor、Grok 和 OpenCode。每个工作区可以是 Docker 或本机沙箱，里面有聊天、编辑器、终端、文件树、diff、密钥和 git。工作区可以来自空目录、git clone、本地文件夹或 GitHub 仓库。
 
 ##### Harness、Skills 与工作流
 
@@ -219,7 +215,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [ECC](https://github.com/affaan-m/ECC) · ⭐ 272,524
 
-  原名单里的 ECC 和 everything-claude-code 是同一个仓库，现名 ECC。它是 Agent harness 的性能与工程化系统：skills、instincts、记忆、安全，以及「先调研再写代码」，覆盖 Claude Code、Codex、OpenCode、Cursor 等。安装渠道作者只承认本仓库、npm 包 `ecc-universal` 和 `ecc-agentshield`、GitHub App，以及 ecc.tools。有简体中文文档。第三方转载不在维护范围内。
+  Agent harness 的性能与工程化系统：skills、instincts、记忆、安全，以及「先调研再写代码」，覆盖 Claude Code、Codex、OpenCode、Cursor 等。安装渠道作者只承认本仓库、npm 包 `ecc-universal` 和 `ecc-agentshield`、GitHub App，以及 ecc.tools。有简体中文文档。第三方转载不在维护范围内。
 
 - [agency-agents](https://github.com/msitarzewski/agency-agents) · ⭐ 156,192
 
@@ -227,7 +223,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [gstack](https://github.com/garrytan/gstack) · ⭐ 134,976
 
-  Y Combinator CEO Garry Tan 公开的 Claude Code 配置，大约 23 个意见很强的工具，分别扮演 CEO、设计师、工程经理、发布经理、文档工程师和 QA。目标是让一个人用 Agent 按小团队的节奏交付。原名单在「规范驱动开发」和「开源」里都有它，这里按开源仓库收录。
+  Y Combinator CEO Garry Tan 公开的 Claude Code 配置，大约 23 个意见很强的工具，分别扮演 CEO、设计师、工程经理、发布经理、文档工程师和 QA。目标是让一个人用 Agent 按小团队的节奏交付。
 
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) · ⭐ 132,883
 
@@ -239,7 +235,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [ruflo](https://github.com/ruvnet/ruflo) · ⭐ 73,826
 
-  原名单中的 claude-flow，仓库现名 ruflo。面向 Claude Code 和 Codex 的 Agent 元 harness，用来部署多智能体群、协调自主工作流，并带自适应记忆、自学习、联邦和向量 RAG。npm 包名是 `ruflo`，另有 `@claude-flow/codex`。有简体中文 README。
+  面向 Claude Code 和 Codex 的 Agent 元 harness，用来部署多智能体群、协调自主工作流，并带自适应记忆、自学习、联邦和向量 RAG。npm 包名是 `ruflo`，另有 `@claude-flow/codex`。有简体中文 README。
 
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · ⭐ 69,786
 
@@ -247,7 +243,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [skills](https://github.com/vercel-labs/skills) · ⭐ 33,082
 
-  原名单中的 `vercel-labs/add-skill`，现仓库是 `vercel-labs/skills`。开放 Agent skills 的 CLI，命令是 `npx skills`。可以把一个仓库里的 skill 装进 OpenCode、Claude Code、Codex、Cursor 等 70 多种 Agent，也可以不安装、只生成一段提示再交给某个 Agent。它是技能的分发器，本身不包含业务技能。
+  开放 Agent skills 的 CLI，命令是 `npx skills`。可以把一个仓库里的 skill 装进 OpenCode、Claude Code、Codex、Cursor 等 70 多种 Agent，也可以不安装、只生成一段提示再交给某个 Agent。它是技能的分发器，本身不包含业务技能。
 
 - [claude-code-templates](https://github.com/davila7/claude-code-templates) · ⭐ 32,360
 
@@ -259,7 +255,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [Archon](https://github.com/coleam00/Archon) · ⭐ 23,611
 
-  开源的 AI 编程 harness 构建器，把规划、实现、验证、审查、开 PR 写成 YAML 工作流，再在各个项目里重复执行。类比是 Dockerfile 之于环境和 GitHub Actions 之于 CI。作者要解决的问题是：同一句「修这个 bug」，模型每次可能跳过计划或测试。原名单里这个仓库出现了两次，这里只保留一条。
+  开源的 AI 编程 harness 构建器，把规划、实现、验证、审查、开 PR 写成 YAML 工作流，再在各个项目里重复执行。类比是 Dockerfile 之于环境和 GitHub Actions 之于 CI。作者要解决的问题是：同一句「修这个 bug」，模型每次可能跳过计划或测试。
 
 - [teamai-cli](https://github.com/Tencent/teamai-cli) · ⭐ 5,114
 
@@ -267,19 +263,19 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [vibe-tools](https://github.com/eastlondoner/vibe-tools) · ⭐ 4,826
 
-  早期也叫 cursor-tools。给 Cursor 等 Agent 加一组现成命令和「AI 团队」技能，让单个 Agent 能转手调用更专门的能力。README 用一张命令表说明每个能力怎么触发。适合已经用 Cursor Agent、想少写重复提示的人。
+  给 Cursor 等 Agent 加一组现成命令和「AI 团队」技能，让单个 Agent 能转手调用更专门的能力。README 用一张命令表说明每个能力怎么触发。适合已经用 Cursor Agent、想少写重复提示的人。
 
 - [claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) · ⭐ 3,897
 
   作者从 Claude Code 发布日起在自己的 AI 创业公司里积累的工作流和配置，配有 YouTube 讲解。其中包括一套自动代码审查：用 slash command 和 GitHub Actions 做双环，让 Agent 先处理语法、完整性和常规问题。它是可抄的流程样例，不是通用平台。
 
+- [aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) · ⭐ 2,867
+
+  一套 AI 营销技能，大约 120 个，覆盖叙事、SEO/GEO、社交、邮件、投放、达人和发布。可以当插件、可移植 skill，或组成 8 个机器人的团队，共用一份契约，并用 TALE、CORE-EEAT、CITE、ECHO、SEND、ROAS、STAR、RAMP 这 8 道门禁做检查。
+
 - [nuxt-skills](https://github.com/onmax/nuxt-skills) · ⭐ 716
 
   给 AI 编程助手用的 Vue、Nuxt 和 NuxtHub skills。和 Nuxt 社区关于「把 Agent skills 打进 Nuxt 模块」的 RFC 相关。装上之后，Agent 在写 Nuxt 项目时会按这些技能里的约定行事，而不是只靠模型对框架的模糊记忆。
-
-- [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) · ⭐ 212
-
-  现在是指路仓库。16 个 SEO 和 GEO（生成式引擎优化）技能已经迁到 `aaron-he-zhu/aaron-marketing-skills`，作为大约 120 个技能包里的一组，带统一契约和评测门禁。本仓库独立的 20 技能版本冻结在 tag `v9.9.12`，不再更新。新安装应指向新仓库。
 
 ##### 规范驱动与上下文工程
 
@@ -287,7 +283,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) · ⭐ 71,013
 
-  给 AI 编程助手用的规范驱动开发框架。作者强调流程是流动的、可迭代的、偏简单，并且优先照顾已有代码库而不是只适合从零开始的项目。新的 artifact 工作流用 `/opsx:propose` 从一句话提议开始，再生成可跟踪的规范产物。npm 包是 `@fission-ai/openspec`。原名单在「规范驱动开发」和「开源」里都有它。
+  给 AI 编程助手用的规范驱动开发框架。作者强调流程是流动的、可迭代的、偏简单，并且优先照顾已有代码库而不是只适合从零开始的项目。新的 artifact 工作流用 `/opsx:propose` 从一句话提议开始，再生成可跟踪的规范产物。npm 包是 `@fission-ai/openspec`。
 
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) · ⭐ 27,278
 
@@ -305,13 +301,13 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
   本地浏览器里的标注面，插在 Claude Code、Codex、Copilot CLI、Gemini CLI、OpenCode、Kiro、Droid、Amp、Pi 等 Agent 的钩子上。Agent 给出计划、规格、markdown 或 HTML 时，人可以在实现前标注；也可以审 diff 和 PR，再把意见一键送回 Agent。它解决的是「计划在终端里一闪而过、人来不及改」的问题。
 
-- [gsd-2](https://github.com/gsd-build/gsd-2) · ⭐ 7,777
-
-  元提示、上下文工程和规范驱动系统，让 Agent 长时间自主工作时仍抓住总目标。这个仓库已经不再是开发主线，项目改在 [open-gsd/gsd-pi](https://github.com/open-gsd/gsd-pi) 继续，新仓库统计日 Star 为 1,288，npm 包是 `@opengsd/gsd-pi`。原名单指向的是旧地址，所以排序仍按旧仓库的 7,777。
-
 - [vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) · ⭐ 3,125
 
   现在的流程叫 Vibe Workflow：先决定做什么，再检查什么是通的，坏了还能恢复。用 Claude Code、Cursor、Codex 或 Gemini CLI 在项目里运行 `npx vibeworkflow`，它会看现有代码，再分流到新项目、继续旧项目或故障恢复。Quick、Guided、Deep 三档问题量和项目规模成比例，用来生成 PRD、技术设计和 MVP 范围。
+
+- [gsd-pi](https://github.com/open-gsd/gsd-pi) · ⭐ 1,288
+
+  元提示、上下文工程和规范驱动系统，让 Agent 长时间自主工作时仍抓住总目标。npm 包是 `@opengsd/gsd-pi`。
 
 - [AI-Coding-Style-Guides](https://github.com/lidangzzz/AI-Coding-Style-Guides) · ⭐ 496
 
@@ -323,7 +319,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) · ⭐ 85,219
 
-  原名单中的 `Lum1104/Understand-Anything`。把代码库、知识库或文档做成可交互的知识图谱，再探索、搜索和提问。多 Agent 流水线分析项目，图里包含文件、函数、类和依赖。以 Claude Code 插件的形式提供，也适用于 Codex、Cursor、Copilot 和 Gemini CLI。有简体中文说明。适合接手一个自己没写过的大仓库。
+  把代码库、知识库或文档做成可交互的知识图谱，再探索、搜索和提问。多 Agent 流水线分析项目，图里包含文件、函数、类和依赖。以 Claude Code 插件的形式提供，也适用于 Codex、Cursor、Copilot 和 Gemini CLI。有简体中文说明。适合接手一个自己没写过的大仓库。
 
 - [codegraph](https://github.com/colbymchenry/codegraph) · ⭐ 73,155
 
@@ -339,7 +335,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [likec4](https://github.com/likec4/likec4) · ⭐ 5,806
 
-  原名单链接的是官网 [likec4.dev](https://likec4.dev/)。LikeC4 是架构即代码：用代码描述架构，工具链生成始终跟代码一起演进的 C4 图，并支持协作。Star 数来自 `likec4/likec4`。适合要在仓库里维护架构图、而不是另存一份会过期的绘图文件的团队。
+  架构即代码：用代码描述架构，工具链生成始终跟代码一起演进的 C4 图，并支持协作。官网是 [likec4.dev](https://likec4.dev/)。适合要在仓库里维护架构图、而不是另存一份会过期的绘图文件的团队。
 
 - [FastCode](https://github.com/HKUDS/FastCode) · ⭐ 2,288
 
@@ -355,7 +351,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [react-doctor](https://github.com/millionco/react-doctor) · ⭐ 14,952
 
-  确定性扫描 React 代码，查出状态与 effect、性能、架构、安全、无障碍和可维护性问题，并标出过于复杂的组件和适合再组合的重复 JSX。支持 Next.js、Vite、Astro、TanStack、React Native 和 Expo。`npx react-doctor@latest` 做审计，`install` 子命令把技能装进 Claude Code、Cursor、Codex、OpenCode，让 Agent 下次少犯同样的错。也可以在 CI 里只报告本次改动引入的问题。原名单里出现两次，这里只保留一条。
+  确定性扫描 React 代码，查出状态与 effect、性能、架构、安全、无障碍和可维护性问题，并标出过于复杂的组件和适合再组合的重复 JSX。支持 Next.js、Vite、Astro、TanStack、React Native 和 Expo。`npx react-doctor@latest` 做审计，`install` 子命令把技能装进 Claude Code、Cursor、Codex、OpenCode，让 Agent 下次少犯同样的错。也可以在 CI 里只报告本次改动引入的问题。
 
 - [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) · ⭐ 4,467
 
@@ -391,7 +387,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [ai-code-reviewer](https://github.com/rideWind97/ai-code-reviewer) · ⭐ 14
 
-  原名单中的 AICR 和 ai-code-reviewer 已指向同一仓库。用 Go 写的 PR 自动审查服务：校验 GitHub 或 GitLab webhook，拉取 diff，拆成 review unit，调用模型，再把摘要、行内评论和状态发回去。还包含大 PR 分级、密钥扫描、PostgreSQL 队列，以及仓库内 `.ai-review/SKILL.md`。README 写明当前是 MVP。
+  用 Go 写的 PR 自动审查服务：校验 GitHub 或 GitLab webhook，拉取 diff，拆成 review unit，调用模型，再把摘要、行内评论和状态发回去。还包含大 PR 分级、密钥扫描、PostgreSQL 队列，以及仓库内 `.ai-review/SKILL.md`。README 写明当前是 MVP。
 
 ##### 设计、UI 与可视化
 
@@ -429,17 +425,17 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
   设计系统目录。每个条目标注是否包含可运行组件、语气指南、设计师源文件和公开源码，名单里有 Adobe Spectrum、Ant Design、Atlassian、政府设计系统等。适合找现成设计系统来对照，或给 Agent 指定一个可引用的组件库。
 
-- [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) · ⭐ 17,278
+- [awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) · ⭐ 17,278
 
-  原名单中的 `awesome-gpt-image-2-prompts`，仓库已改名。以提示词为主的 GPT Image 2 示例集，大约 462 条，覆盖生成、编辑、设计和广告，按类别浏览后即可复制。有简体中文 README。和上一份案例库互补：这份更偏精选提示词，上一份更偏工业模板和 2.5 对比。
+  以提示词为主的 GPT Image 2 示例集，大约 462 条，覆盖生成、编辑、设计和广告，按类别浏览后即可复制。有简体中文 README。和上一份案例库互补：这份更偏精选提示词，上一份更偏工业模板和 2.5 对比。
 
 - [A2UI](https://github.com/a2ui-project/a2ui) · ⭐ 16,588
 
-  原 Google 仓库，现地址是 `a2ui-project/a2ui`。Agent 到用户界面的开放格式：Agent 生成或填充可更新的富 UI，而不是只返回文本，并提供一组渲染器。当前生产版本是 v0.9.1，v1.0 规范仍是候选发布，v0.8 已过时。适合做「模型输出一块真正的界面」的产品。
+  Agent 到用户界面的开放格式：Agent 生成或填充可更新的富 UI，而不是只返回文本，并提供一组渲染器。当前生产版本是 v0.9.1，v1.0 规范仍是候选发布，v0.8 已过时。适合做「模型输出一块真正的界面」的产品。
 
 - [Claudable](https://github.com/anymorph-ai/Claudable) · ⭐ 4,054
 
-  用本机 CLI Agent 做网页应用的开源构建器，原仓库在 `opactorai/Claudable`。描述一个应用后，由 Claude Code、Codex、Gemini CLI、Qwen Code 或 Cursor Agent 生成代码并给出预览，再部署到 Vercel，数据库可用 Supabase。体验上接近托管的 AI 建站产品，但执行发生在你自己的 Agent 上。
+  用本机 CLI Agent 做网页应用的开源构建器。描述一个应用后，由 Claude Code、Codex、Gemini CLI、Qwen Code 或 Cursor Agent 生成代码并给出预览，再部署到 Vercel，数据库可用 Supabase。体验上接近托管的 AI 建站产品，但执行发生在你自己的 Agent 上。
 
 - [antd-components-mcp](https://github.com/zhixiaoqiang/antd-components-mcp) · ⭐ 245
 
@@ -447,7 +443,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [awesome-design-md 预览](https://tool.keylen.xyz/) · 无公开 Star
 
-  原名单里第二条 awesome-design-md，指向在线预览站，页面标题是 Awesome-design-md Preview。它没有独立 GitHub 仓库，因此没有 Star。和上面的 VoltAgent 集合是同一类 `DESIGN.md` 资料的浏览入口，不单独参与 Star 排序。
+  在线预览站，页面标题是 Awesome-design-md Preview。它没有独立 GitHub 仓库，因此没有 Star。和上面的 VoltAgent 集合是同一类 `DESIGN.md` 资料的浏览入口，不单独参与 Star 排序。
 
 ##### 模型网关、路由与额度
 
@@ -509,13 +505,13 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
   跑 AI 生成代码的弹性基础设施，强调隔离和弹性伸缩。README 写明：2026 年 6 月起核心开发已转到私有代码库，这个公开仓库不再更新，但仍可按原许可证使用和分叉。后续官方资源在 github.com/daytona。Star 数仍高，是因为历史积累，不代表公开仓库还在发版。
 
+- [E2B](https://github.com/e2b-dev/E2B) · ⭐ 14,146
+
+  给企业级 Agent 用的开源安全运行环境，在隔离沙箱里提供真实工具。代码解释器的 JavaScript 和 Python SDK 也在这个 monorepo 里，用来执行模型生成的代码。适合在自己的 AI 应用里跑不受信任的代码，而不是直接打在开发机上。
+
 - [vibesdk](https://github.com/cloudflare/vibesdk) · ⭐ 5,397
 
   Cloudflare 开源的氛围编程平台，用来搭你自己的「描述需求即可生成并部署全栈应用」的站点。Agent 循环跑在 Cloudflare 上，Durable Object 提供隔离工作区，预览、看错误和继续改都在同一条链路里。在线演示是 build.cloudflare.dev。适合要自建一个 Lovable 一类产品、并且愿意绑在 Cloudflare 技术栈上的团队。
-
-- [code-interpreter](https://github.com/e2b-dev/code-interpreter) · ⭐ 2,419
-
-  E2B 的代码解释器 SDK。在云端隔离沙箱里执行 AI 生成的 Python 或 JavaScript。JS 和 Python SDK 源码已迁到 `e2b-dev/E2B` 的 `packages/code-interpreter-*`，本仓库留下沙箱模板和图表数据提取。适合在自己的 AI 应用里安全地跑模型写出的代码。
 
 - [vibekit](https://github.com/superagent-ai/vibekit) · ⭐ 1,861
 
@@ -587,7 +583,7 @@ Star 数取自 GitHub 页面，统计日期为 **2026-10-04**。同一仓库的�
 
 - [awesome-autoresearch](https://github.com/webfuse-com/awesome-autoresearch) · ⭐ 2,553
 
-  原名单中的 `alvinreal/awesome-autoresearch`。围绕 Karpathy 的 autoresearch，收录自主改进循环、研究 Agent，以及通用衍生、研究系统、硬件移植、领域适配、评测和写得比较实的使用记录。适合在找「让实验自己跑起来」的项目时当索引。
+  围绕 Karpathy 的 autoresearch，收录自主改进循环、研究 Agent，以及通用衍生、研究系统、硬件移植、领域适配、评测和写得比较实的使用记录。适合在找「让实验自己跑起来」的项目时当索引。
 
 - [awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) · ⭐ 2,129
 
