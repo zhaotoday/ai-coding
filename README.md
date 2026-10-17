@@ -13,6 +13,7 @@
 #### 未分类
 
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+- [web-quality-skills](https://github.com/addyosmani/web-quality-skills)
 
 #### 产品
 
