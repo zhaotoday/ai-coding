@@ -10,6 +10,10 @@
 
 仓库若已改名，条目使用当前仓库名。已经停更且没有后续项目的不收录；官方给出替代的，收替代。
 
+#### 未分类
+
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
 #### 产品
 
 商业产品和托管服务。开源实现若已在后面单列，这里只写产品本身。
