@@ -12,6 +12,9 @@
 
 #### 未分类
 
+- [DeepBricks](https://deepbricks.ai/)
+- [AICodeWith](https://aicodewith.ai/)
+- [FastAI](https://www.fastaitoken.com/)
 - [t3code](https://github.com/pingdotgg/t3code)
 - [addyosmani-agent-skills-zh](https://github.com/vinvcn/addyosmani-agent-skills-zh)
 - [mattpocock-skills-zh](https://github.com/devcxl/mattpocock-skills-zh)
