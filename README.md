@@ -12,6 +12,7 @@
 
 #### 未分类
 
+- [oar](https://github.com/botiverse/oar)
 - [DeepBricks](https://deepbricks.ai/)
 - [AICodeWith](https://aicodewith.ai/)
 - [FastAI](https://www.fastaitoken.com/)
