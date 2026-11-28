@@ -12,6 +12,7 @@
 
 #### 未分类
 
+- [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
 - [agy-fast](https://github.com/INK-Q/agy-fast)
 - [oar](https://github.com/botiverse/oar)
 - [DeepBricks](https://deepbricks.ai/)
