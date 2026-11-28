@@ -12,6 +12,7 @@
 
 #### 未分类
 
+- [agy-fast](https://github.com/INK-Q/agy-fast)
 - [oar](https://github.com/botiverse/oar)
 - [DeepBricks](https://deepbricks.ai/)
 - [AICodeWith](https://aicodewith.ai/)
